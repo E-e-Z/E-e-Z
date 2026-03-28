@@ -2,8 +2,7 @@
 
 ```text
 [ E-e-Z ]
-> hacker mode: enabled
-> future vision: active
+
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=00F5D4&center=true&vCenter=true&repeat=true&width=720&lines=I+don't+want+to+study.;I+want+to+sleep.;I+think+I+can+do+it.)](https://git.io/typing-svg)
